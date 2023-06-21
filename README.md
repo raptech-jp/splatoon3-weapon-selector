@@ -1,0 +1,2 @@
+# splatoon3-weapon-selector
+Splatoon3のブキを自動で指定できるDiscord用のBot
