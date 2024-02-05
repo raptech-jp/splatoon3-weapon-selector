@@ -24,7 +24,7 @@ Splatoon3のブキを自動で指定できるDiscord用のBot
 - このソフトウェアは日本語のみサポートしています。(This software supports only Japanese.)
 - このソフトウェアを使用したことによるいかなる損害も、当方は一切責任を負いません。
 
-## searchコマンドオプション表 (Chill Season)
+## searchコマンドオプション表 (2023冬 Chill Season)
 |オプション|種類|
 |---|---|
 |`シューター`|ブキ|
