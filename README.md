@@ -1,5 +1,5 @@
 # splatoon3-weapon-selector
-Splatoon3のブキを自動で指定できるDiscord用のBot
+Splatoon3のブキをランダムに指定できるDiscord用のBot
 
 ## 動作確認環境
 - Node.js v18.17.1
