@@ -8,7 +8,7 @@ Splatoon3のブキをランダムに指定できるDiscord用のBot
 ## 起動方法
 1. `.env.template`のファイル名を`.env`に変更し、DiscordのBotの`TOKEN`と`CLIENT_ID`を記述
 2. `npm install`を実行
-3. `node index.js`を実行
+3. `npm start`を実行
 
 ※Botに必要な権限を適宜付与してください。
 
